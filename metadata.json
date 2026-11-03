@@ -1,0 +1,6 @@
+{
+  "name": "EKONOMI JENIUS – TKA EKONOMI 2026",
+  "description": "Aplikasi pembelajaran dan latihan interaktif 30 soal HOTS TKA Ekonomi 2026 bersama Mister Jo dengan panduan audio TTS, kurva interaktif, pembahasan mendalam, dan strategi cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
